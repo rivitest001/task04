@@ -1,124 +1,44 @@
 {
     "posts" : [
         {
-            "id": 1, 
-            "activity": "Get stunned by the Great Pyramid of Giza"
+            "id": 91, 
+            "activity": "Visit Meiji Jingu Shrine"
         },
         {
-            "id": 2, 
-            "activity": "Walk along the Great Wall of China"
+            "id": 92, 
+            "activity": "Ride a horse in Mongolia"
         },
         {
-            "id": 3, 
-            "activity": "Explore Petra"
+            "id": 93, 
+            "activity": "Explore Sensoji Temple"
         },
         {
-            "id": 4, 
-            "activity": "Visit the Colosseum"
+            "id": 94, 
+            "activity": "Visit the Grand Palace"
         },
         {
-            "id": 5, 
-            "activity": "Walk to Chichen Itza"
+            "id": 95, 
+            "activity": "Walk on the Hollywood Walk of Fame"
         },
         {
-            "id": 6, 
-            "activity": "Trek to Machu Picchu"
+            "id": 96, 
+            "activity": "Hike on Trolltunga"
         },
         {
-            "id": 7, 
-            "activity": "Discover the Taj Mahal"
+            "id": 97, 
+            "activity": "Visit Bourbon Street"
         },
         {
-            "id": 8, 
-            "activity": "Hike to Christ the Redeemer"
+            "id": 98, 
+            "activity": "Visit the Paricutin Volcano"
         },
         {
-            "id": 9, 
-            "activity": "Be intrigued by Stonehenge"
+            "id": 99, 
+            "activity": "Shop at Tsim Sha Tsui"
         },
         {
-            "id": 10, 
-            "activity": "Discover the Amazon Rainforest and River"
-        },
-        {
-            "id": 11, 
-            "activity": "Sail on Ha Long Bay"
-        },
-        {
-            "id": 12, 
-            "activity": "Discover the Milan Cathedral"
-        },
-        {
-            "id": 13, 
-            "activity": "Visit Notre Dame Cathedral"
-        },
-        {
-            "id": 14, 
-            "activity": "Drink wine under the Eiffel Tower"
-        },
-        {
-            "id": 15, 
-            "activity": "Visit Saint Basil's Cathedral & the Red Square"
-        },
-        {
-            "id": 16, 
-            "activity": "Visit the Acropolis of Athens"
-        },
-        {
-            "id": 17, 
-            "activity": "Visit Easter Island"
-        },
-        {
-            "id": 18, 
-            "activity": "Enjoy yourself at Sydney Opera House"
-        },
-        {
-            "id": 19, 
-            "activity": "Discover the magnificent Angkor Wat"
-        },
-        {
-            "id": 20, 
-            "activity": "Visit the Summer Palace in China"
-        },
-        {
-            "id": 21, 
-            "activity": "Visit Hagia Sophia"
-        },
-        {
-            "id": 22, 
-            "activity": "Dive on the Great Barrier Reef"
-        },
-        {
-            "id": 23, 
-            "activity": "Participate in a Hiking Tour in the Grand Canyon"
-        },
-        {
-            "id": 24, 
-            "activity": "Sail to the Statue of Liberty"
-        },
-        {
-            "id": 25, 
-            "activity": "Visit the city of Lhasa and the Potala Palace"
-        },
-        {
-            "id": 26, 
-            "activity": "Climb the Kilimanjaro"
-        },
-        {
-            "id": 27, 
-            "activity": "Discover the Wailing Wall"
-        },
-        {
-            "id": 28, 
-            "activity": "Admire Mount Rushmore"
-        },
-        {
-            "id": 29, 
-            "activity": "Swim in Palawa, Puerto Princesa Subterranean River National Park"
-        },
-        {
-            "id": 30, 
-            "activity": "Visit St. Peter's Basilica"
+            "id": 100, 
+            "activity": "Admire the Golden Temple"
         }
     ]
 }
